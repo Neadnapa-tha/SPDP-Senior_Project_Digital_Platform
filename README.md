@@ -1,7 +1,7 @@
 # 🌱 SPDP: Senior Project Digital Platform
 ### ระบบจัดการโครงงานนักศึกษาระดับปริญญาตรี
 
-![Uploading Screenshot 2568-06-26 at 17.16.46.png…]()
+<img width="1434" alt="Screenshot 2568-06-26 at 17 17 30" src="https://github.com/user-attachments/assets/7ae1f878-ece3-442f-bb73-b3e0a4023d69" />
 
 ## 📋 ภาพรวมโครงการ
 
